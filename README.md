@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vijaybbbb
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node js And React  
+- 👀 Self Taught Mern stack Developer
 - 💞️ Self Motivated... 
 - 📫 How to reach me ... vijayramkp2002@gmail.com
 
